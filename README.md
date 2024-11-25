@@ -1,1 +1,1 @@
-This is an algorighm to solve ZigZag problem on leetcode
+This is an algorithm to solve ZigZag problem on leetcode
